@@ -45,4 +45,11 @@ La señal analizada presenta una media de **-0.008**, indicando que los datos se
 El histograma permite visualizar la forma en la que están distribuidos los datos, en este caso se evidencia que los datos que se centran entre 0.0 v tienen un pico con más de 8000 repeticiones lo que concuerda con lo que nos dio en la media.
 
 ## 5. Curtosis
+### Programación
+<img width="446" height="94" alt="image" src="https://github.com/user-attachments/assets/b1e6e7b8-3ba8-405c-95cd-1dd016b4d1c7" />
+
+### Curtosis Gráfico
+![Imagen de WhatsApp 2025-08-24 a las 16 01 47_c4d78f05](https://github.com/user-attachments/assets/7f3e59b9-1716-4fea-b815-773eb326ce8d)
+
+Se observa qué es un pico muy estrecho y alto, estando en concordancia con el valor de curtosis alto, indicando que se mantiene la concentración marcada de los datos en torno a la media, pero también presenta picos menos frecuentes que pueden corresponder a ondas p y t.
 
