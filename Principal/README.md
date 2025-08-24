@@ -6,4 +6,5 @@ En este repositorio se encontrara el desarrollo para el analisis estadistico de 
 * Agregar diferentes tipos de ruido gaussiano, impulso y tipo artefacto para contaminar la señal.
 * Identificar los estadísticos que describen una señal biomédica.
 * Determinar los estadísticos de las señales usando dos formas: funciones de programación y de manera manual. 
+
 [Procesos] 
