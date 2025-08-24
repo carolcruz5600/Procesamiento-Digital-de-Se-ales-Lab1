@@ -7,4 +7,11 @@ En este repositorio se encontrara el desarrollo para el analisis estadistico de 
 * Identificar los estadísticos que describen una señal biomédica.
 * Determinar los estadísticos de las señales usando dos formas: funciones de programación y de manera manual. 
 
-[Procesos] 
+[Diagramas] 
+## Parte A
+
+## Parte B 
+Para esta parte de la práctica se trabajará con una señal fisiológica similar a la que se analizó en la primera parte del laboratorio, pero en lugar de emplear datos que ya se han registrado previamente, se utilizará un generador de señales biológicas. Este nos permite simular de manera controlada una señal de ECG con las frecuencias que se necesiten o deseen. La señal generada será adquirida a través de un DAQ para posteriormente ser almacenada en un código de captura y en un formato **.txt** o **.wfdb** para lograr su análisis.
+Una vez capturada y guardada la señal será importada a python, para realizar su representación gráfica y cálculos de sus estadísticos descriptivos que permiten cuantificar su comportamiento.
+
+## Parte C
