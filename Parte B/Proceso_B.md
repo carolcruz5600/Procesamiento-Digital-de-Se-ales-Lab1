@@ -11,3 +11,5 @@ Para la captura de datos se usa una interfaz de python en la cual ayudara a rete
 <img width="712" height="95" alt="image" src="https://github.com/user-attachments/assets/05fe1636-d616-4436-bdf7-d66080285720" />
 
 ## Grafica de la Señal
+![Imagen de WhatsApp 2025-08-24 a las 16 01 25_17408cdb](https://github.com/user-attachments/assets/80958bd5-81f5-4924-a769-b658a0ba7b29)
+###
