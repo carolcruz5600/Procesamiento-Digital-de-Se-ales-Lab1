@@ -1,5 +1,5 @@
 # Parte B
-## Configuració Librerias
+## Configuración Librerias
 Para la captura de datos se usa una interfaz de python en la cual ayudara a retener la señal ya genereada
 * Se necesitan importar librerías de DAQ para que pueda leer los datos y guaradarlos. Importar librerías tambien como scipy, numpy, matplotlib, seaborn para poder realizar gráficas y calcular los estadísticos descriptivos con funciones.
 <img width="542" height="115" alt="image" src="https://github.com/user-attachments/assets/d93cb98f-e55a-484c-895f-bc878e41b42e" />
@@ -35,4 +35,13 @@ Con las funciones que tenemos en el codigo nos dan valores de:
 
 La señal analizada presenta una media de **-0.008**, indicando que los datos se encuentran centrados alrededor del eje horizontal. La desviación estandar muestra que los valores de la señal se dispersaen promedio tres décimas alrededor de la media correspondiendo a una variabilidad moderada. Siendo no completamente uniforme pero tampoco presentando fluctuaciones excesivas en relación con la amplitud.
 ## 4. Histograma
+### Programación
 <img width="411" height="90" alt="image" src="https://github.com/user-attachments/assets/de8a4b75-a070-468e-bb79-d0db8ac9e5da" />
+
+### Grafica
+
+![Imagen de WhatsApp 2025-08-24 a las 16 01 34_1183e47a](https://github.com/user-attachments/assets/f7f9024d-9a48-4f40-9cdd-f2c03896ba6c)
+
+El histograma permite visualizar la forma en la que están distribuidos los datos, en este caso se evidencia que los datos que se centran entre 0.0 v tienen un pico con más de 8000 repeticiones lo que concuerda con lo que nos dio en la media.
+
+##
