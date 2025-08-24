@@ -76,7 +76,7 @@ La visualización combina un histograma con la estimación de densidad por kerne
 <img width="545" height="138" alt="image" src="https://github.com/user-attachments/assets/be6dd39d-4d2d-4f39-afa6-98754c292ed2" />
 
 > ### **Gráfica**
-> 
+ 
 <img width="649" height="492" alt="image" src="https://github.com/user-attachments/assets/5a752285-8436-4ac4-a88b-3dc149c7e9f9" />
 
 ## **6. Función de Densidad de Probabilidad**
