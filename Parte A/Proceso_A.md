@@ -67,7 +67,7 @@ La construcción manual del histograma se realizó mediante bucles anidados y co
 <img width="70%" alt="image" src="https://github.com/user-attachments/assets/124667ea-2641-45d6-a5a1-daa4c1e1b8c2" />
 
 > ### **Gráfica**
-> 
+
 <img width="649" height="492" alt="image" src="https://github.com/user-attachments/assets/a0adc495-0328-478c-a32e-8527ba25d11a" />
 
 ## **5. Análisis de Curtosis**
@@ -87,9 +87,12 @@ El código emplea plt.hist() con el parámetro density=True que normaliza las fr
 <img width="659" height="162" alt="image" src="https://github.com/user-attachments/assets/f40b717e-4252-4216-aa08-064ac1535948" />
 
 > ### **Gráfica**
-> 
+
+La gráfica muestra que existe mayor probabilidad (aproximadamente 0.003) de encontrar valores cercanos a cero, confirmando que la señal ECG permanece la mayor parte del tiempo en reposo entre latidos. La probabilidad disminuye rápidamente hacia amplitudes mayores, creando una curva que decae hacia la derecha. Los valores altos de voltaje (picos de los latidos) tienen probabilidades muy bajas de ocurrir, pero cuando aparecen son los eventos más importantes de la señal. Esta forma de distribución es típica en señales cardíacas donde los momentos de reposo son frecuentes y los momentos de actividad intensa son extraños.
+ 
 <img width="649" height="492" alt="image" src="https://github.com/user-attachments/assets/24ad0f94-5ffb-4c19-b80c-504070c4c5ac" />
 
 ## **7. Conclusiones**
 
+La parte A del laboratorio evidenció que el trabajo con señales ECG es distinto al análisis de datos tradicionales, porque las señales cardíacas presentan una distribución no gaussiana. Los métodos manuales y las librerías de Python generaron resultados iguales, lo que confirma la validez de ambas formas de cálculo. Los parámetros estadísticos muestran el funcionamiento del corazón: durante largos lapsos de tiempo, este se mantiene en reposo alrededor de 43 μV, pero los picos de despolarización llegan a 3000 μV. Una curtosis de 16.25 y una alta variabilidad (509 μV de desviación) corroboran que las señales biomédicas presentan una distribución no gaussiana. Esta dualidad se refleja en los histogramas, donde hay una gran concentración de datos cerca del cero (reposo cardíaco) y pocos valores en amplitudes elevadas (complejos QRS). Desde el punto de vista clínico, estos eventos poco frecuentes constituyen la actividad cardíaca esencial.
 
