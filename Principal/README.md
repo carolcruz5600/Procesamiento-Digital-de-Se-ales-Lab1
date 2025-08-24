@@ -10,6 +10,7 @@ En este repositorio se encontrara el desarrollo para el analisis estadistico de 
 [Diagramas] 
 ## Parte A
 En esta sección se trabajó con el análisis estadístico de una señal biomédica descargada desde la base de datos PhysioNet. Se importó la señal seleccionada en Python, se generó su representación gráfica y se calcularon los principales estadísticos descriptivos utilizando dos metodologías: primero programando manualmente las fórmulas matemáticas desde cero, y segundo empleando las funciones predefinidas de Python. Los parámetros calculados incluyeron media, desviación estándar, coeficiente de variación, histogramas, función de probabilidad y curtosis, lo que permitió caracterizar completamente el comportamiento estadístico de la señal fisiológica analizada.
+
 [Parte A](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/2a1cc0cfa33b84d903a8e38a7f90c90dcdd0f53a/Parte%20A/Proceso%20A)
 ## Parte B 
 Para esta parte de la práctica se trabajará con una señal fisiológica similar a la que se analizó en la primera parte del laboratorio, pero en lugar de emplear datos que ya se han registrado previamente, se utilizará un generador de señales biológicas. Este nos permite simular de manera controlada una señal de ECG con las frecuencias que se necesiten o deseen. La señal generada será adquirida a través de un DAQ para posteriormente ser almacenada en un código de captura y en un formato **.txt** o **.wfdb** para lograr su análisis.
