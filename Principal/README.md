@@ -1,5 +1,11 @@
 # **Laboratorio 1 Análisis Estadístico de la Señal** 
-En este repositorio se encontrara el desarrollo para el analisis estadistico de una señal electrocardiografica
+En este repositorio se encontrara el desarrollo para el analisis estadistico de una señal electrocardiográfica
+
+## Integrantes
+* Laura Valentina Velásquez Castiblanco (5600846)
+* Carol Valentina Cruz Becerra (5600845)
+* Carlos Felipe Moreno Guzmán (5600881)
+  
 ## Objetivos 
 * Importar una señal ECG desde la base de datos PhysioNet.
 * Capturar una señal electro fisiológica dada por un generador de señales.
