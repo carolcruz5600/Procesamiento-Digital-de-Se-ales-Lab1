@@ -44,4 +44,5 @@ La señal analizada presenta una media de **-0.008**, indicando que los datos se
 
 El histograma permite visualizar la forma en la que están distribuidos los datos, en este caso se evidencia que los datos que se centran entre 0.0 v tienen un pico con más de 8000 repeticiones lo que concuerda con lo que nos dio en la media.
 
-##
+## 5. Curtosis
+
