@@ -53,3 +53,10 @@ El histograma permite visualizar la forma en la que están distribuidos los dato
 
 Se observa qué es un pico muy estrecho y alto, estando en concordancia con el valor de curtosis alto, indicando que se mantiene la concentración marcada de los datos en torno a la media, pero también presenta picos menos frecuentes que pueden corresponder a ondas p y t.
 
+## 6. Función de probabilidad
+### Programación 
+<img width="524" height="91" alt="image" src="https://github.com/user-attachments/assets/c96627db-ffa6-4d50-b84f-41b8fac22daa" />
+
+### Gráfica
+![Imagen de WhatsApp 2025-08-24 a las 16 01 57_0a631310](https://github.com/user-attachments/assets/9079bda7-c66a-47a8-af9e-8646b8fb26e2)
+
