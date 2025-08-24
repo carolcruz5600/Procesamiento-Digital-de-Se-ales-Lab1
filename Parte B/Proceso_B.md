@@ -1,4 +1,4 @@
-# Proceso parte B
+# Parte B
 ## Configuració Librerias
 Para la captura de datos se usa una interfaz de python en la cual ayudara a retener la señal ya genereada
 * Se necesitan importar librerías de DAQ para que pueda leer los datos y guaradarlos. Importar librerías tambien como scipy, numpy, matplotlib, seaborn para poder realizar gráficas y calcular los estadísticos descriptivos con funciones.
