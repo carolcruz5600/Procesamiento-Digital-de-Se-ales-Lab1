@@ -23,7 +23,7 @@ Se crea una tarea en el NI-DAQ para organizar la adquisición de datos y facilit
 
 ![Imagen de WhatsApp 2025-08-24 a las 16 01 25_17408cdb](https://github.com/user-attachments/assets/80958bd5-81f5-4924-a769-b658a0ba7b29)
 
-### Estadístiscos Descriptivos
+## 3. Estadístiscos Descriptivos
 <img width="462" height="189" alt="image" src="https://github.com/user-attachments/assets/9dc0f106-5b1f-4391-8641-4c5eaba16d3c" />
 
 Con las funciones que tenemos en el codigo nos dan valores de:
@@ -33,3 +33,6 @@ Con las funciones que tenemos en el codigo nos dan valores de:
 * __Coeficiente de Variación:__ -35.19
 * __Curtosis:__ 20.312
 
+La señal analizada presenta una media de **-0.008**, indicando que los datos se encuentran centrados alrededor del eje horizontal. La desviación estandar muestra que los valores de la señal se dispersaen promedio tres décimas alrededor de la media correspondiendo a una variabilidad moderada. Siendo no completamente uniforme pero tampoco presentando fluctuaciones excesivas en relación con la amplitud.
+## 4. Histograma
+<img width="411" height="90" alt="image" src="https://github.com/user-attachments/assets/de8a4b75-a070-468e-bb79-d0db8ac9e5da" />
