@@ -13,6 +13,8 @@ En este repositorio se encontrara el desarrollo para el analisis estadistico de 
 * Identificar los estadísticos que describen una señal biomédica.
 * Determinar los estadísticos de las señales usando dos formas: funciones de programación y de manera manual. 
 
+## Diagramas de Flujo
+
 [Diagrama Parte A](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/main/Imagenes/Esquemas-2.jpg)
 
 [Diagrama Parte B](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/main/Imagenes/Esquemas-3.jpg)
