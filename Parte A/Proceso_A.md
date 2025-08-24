@@ -96,3 +96,5 @@ La gráfica muestra que existe mayor probabilidad (aproximadamente 0.003) de enc
 
 La parte A del laboratorio evidenció que el trabajo con señales ECG es distinto al análisis de datos tradicionales, porque las señales cardíacas presentan una distribución no gaussiana. Los métodos manuales y las librerías de Python generaron resultados iguales, lo que confirma la validez de ambas formas de cálculo. Los parámetros estadísticos muestran el funcionamiento del corazón: durante largos lapsos de tiempo, este se mantiene en reposo alrededor de 43 μV, pero los picos de despolarización llegan a 3000 μV. Una curtosis de 16.25 y una alta variabilidad (509 μV de desviación) corroboran que las señales biomédicas presentan una distribución no gaussiana. Esta dualidad se refleja en los histogramas, donde hay una gran concentración de datos cerca del cero (reposo cardíaco) y pocos valores en amplitudes elevadas (complejos QRS). Desde el punto de vista clínico, estos eventos poco frecuentes constituyen la actividad cardíaca esencial.
 
+## **8. Archivo *Google Colab***
+[Google Colab](https://colab.research.google.com/drive/1xpSBTxafZqtwS68EXAGnWcrr4qqf1AOM?usp=sharing)
