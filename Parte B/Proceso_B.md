@@ -58,5 +58,10 @@ Se observa qué es un pico muy estrecho y alto, estando en concordancia con el v
 <img width="524" height="91" alt="image" src="https://github.com/user-attachments/assets/c96627db-ffa6-4d50-b84f-41b8fac22daa" />
 
 ### Gráfica
+La gráfica muestra que la señal se mantiene la mayor parte del tiempo cerca de 0 V, lo cual se refleja en la media cercana a cero y en la alta concentración de valores en torno a ese punto. Los valores lejanos ocurren de manera poco frecuente, lo que explica la alta curtosis calculada en el análisis estadístico.
 ![Imagen de WhatsApp 2025-08-24 a las 16 01 57_0a631310](https://github.com/user-attachments/assets/9079bda7-c66a-47a8-af9e-8646b8fb26e2)
 
+## 7. Conclusiones 
+La señal original se mantiene bastante estable y centrada alrededor de cero voltios, lo que se ve tanto en el histograma como en los resultados numéricos. La media es casi cero (-0.008), lo que significa que no tiende ni hacia valores positivos ni negativos, y la desviación estándar baja (0.291) muestra que la mayoría de los valores están muy cerca de ese punto central, sin grandes cambios en la amplitud.
+
+Además, aunque el coeficiente de variación sale alto, eso pasa porque la media está muy cerca de cero y hace que ese valor se vea más grande de lo que realmente representa. También, la curtosis alta (20.312) indica que los datos están muy concentrados en el centro y que casi no hay valores alejados, lo que coincide con el histograma donde todo se acumula alrededor de 0 V. En pocas palabras, la señal es bastante estable, uniforme y sin mucha dispersión cuando no hay ruido que la altere.
