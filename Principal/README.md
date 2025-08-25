@@ -19,7 +19,7 @@ En este repositorio se encontrara el desarrollo para el analisis estadistico de 
 
 [Diagrama Parte B](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/main/Imagenes/Esquemas-3.jpg)
 
-[Diagrama Parte C]
+[Diagrama Parte C](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/580a2410af7b3658389ebea1872e9f8d057b477e/Imagenes/Esquema%20parte%20C-4.jpg)
 
 ## Parte A
 En esta sección se trabajó con el análisis estadístico de una señal biomédica descargada desde la base de datos PhysioNet. Se importó la señal seleccionada en Python, se generó su representación gráfica y se calcularon los principales estadísticos descriptivos utilizando dos metodologías: primero programando manualmente las fórmulas matemáticas desde cero, y segundo empleando las funciones predefinidas de Python. Los parámetros calculados incluyeron media, desviación estándar, coeficiente de variación, histogramas, función de probabilidad y curtosis, lo que permitió caracterizar completamente el comportamiento estadístico de la señal fisiológica analizada.
