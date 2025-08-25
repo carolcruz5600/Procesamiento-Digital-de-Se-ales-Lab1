@@ -57,7 +57,7 @@ Como se había mencionado antes, es posible generar este tipo de ruido empleando
 
 <img width="476" height="81" alt="image" src="https://github.com/user-attachments/assets/1e58ca86-1cbb-4f2a-b90e-dbd53cd492a2" />
 
-Donde ``loc`` indica que el ruido se distribuye alrededor de 0, ``scale`` es la desviación estándar $\sigma$ de la muestra y ``size`` es el tamaño de la muestra. Así, ``señal_gaussiano`` es la variable que almacena la señal contaminada por el Ruido Gasussiano.
+Donde ``loc`` indica que el ruido se distribuye alrededor de 0, ``scale`` es la desviación estándar $\sigma$ de la muestra y ``size`` es el tamaño de la muestra. Así, ``señal_gaussiano`` es la variable que almacena la señal contaminada por el Ruido Gaussiano.
 
 ### **1.2. Ruido Impulso**
 Para obtener una señal que simule la del ruido impulso, es necesario realizar algunos pasos extra que se describirán brevemente a continuación.
