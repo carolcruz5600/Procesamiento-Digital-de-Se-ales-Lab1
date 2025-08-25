@@ -28,7 +28,7 @@ En esta sección se trabajó con el análisis estadístico de una señal bioméd
 Para esta parte de la práctica se trabajará con una señal fisiológica similar a la que se analizó en la primera parte del laboratorio, pero en lugar de emplear datos que ya se han registrado previamente, se utilizará un generador de señales biológicas. Este nos permite simular de manera controlada una señal de ECG con las frecuencias que se necesiten o deseen. La señal generada será adquirida a través de un DAQ para posteriormente ser almacenada en un código de captura y en un formato **.txt** o **.wfdb** para lograr su análisis.
 Una vez capturada y guardada la señal será importada a python, para realizar su representación gráfica y cálculos de sus estadísticos descriptivos que permiten cuantificar su comportamiento.
 
-[Parte B](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/136da857a6735b4a114f9adb2d36dc1d329a2b1f/Parte%20B/Proceso_B.md)
+[Parte B](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/b856891c4e1636cee7c5cd806d2ea7544e50250e/Parte%20B/Proceso_B.md)
 
 ### Comparación Parte A y Parte B
 
