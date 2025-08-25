@@ -43,4 +43,4 @@ Si se habla del coeficiente de variación, la señal, aunque tranquila, tenía u
 ## Parte C
 En la presente sección, se empleó la señal previamente extraída del generador de señales biológicas y almacenada en formato **.txt**, para contaminarla con diferentes tipos de ruido, como el ***Ruido Gaussiano***, el ***Ruido Impulso*** y ***Ruido Tipo Artefacto***. Posteriormente, se calculó el **SNR** de cada señal contaminada. En la discusión de este apartado, se definirá el SNR con sus respectivas fórmulas e interpretaciones, así como la generación de cada tipo de ruido en Python-Spyder y la forma de contaminación de la señal original.
 
-[Parte C](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/136da857a6735b4a114f9adb2d36dc1d329a2b1f/Parte%20C/Proceso_C.md)
+[Parte C](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/eacaf2a53c706e14dc4119186ae683e7c652be9f/Parte%20C/Proceso_C.md)
