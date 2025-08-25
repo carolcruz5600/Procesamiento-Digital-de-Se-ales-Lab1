@@ -31,6 +31,13 @@ Una vez capturada y guardada la señal será importada a python, para realizar s
 [Parte B](https://github.com/carolcruz5600/Procesamiento-Digital-de-Se-ales-Lab1/blob/136da857a6735b4a114f9adb2d36dc1d329a2b1f/Parte%20B/Proceso_B.md)
 
 ### Comparación Parte A y Parte B
+
+Si miramos primero la señal qye se ha tomado del generador que analizamos antes, se nota que estaba centrada en torno a 0 V, con una media de -0.008 V prácticamente pegada al eje, y una desviación estándar baja de 0.291 V, lo que significa que casi todos los valores se quedaban cerca de la línea base sin alejarse mucho. En cambio, en el ECG real que se sacó con PhysioNet, la media quedó en 43.35 μV, arriba de cero, mientras que con la dispersión: la desviación estándar fue de 509.03 μV. Lo que indica que el ECG tomado de la base de datos es mucho más variable que la señal generada en el laboratorio, con subidas y bajadas muy marcadas.
+
+Otra diferencia se encuentra en la curtosis. La señal de la parte B tenía un valor de 20.3, mostrando que estaba concentrada en torno al cero, con picos que también eran presentes pero poco frecuentes. En el ECG, la curtosis fue de 16.25, que se considera a la vez un valor alto. Esto se puede notar en los histogramas: en ambos hay valores acumulados cerca de la línea base, pero en el ECG los picos hacia los valores grandes son más frecuentes porque cada complejo QRS mete saltos muy altos de amplitud.
+
+Si se habla del coeficiente de variación, la señal, aunque tranquila, tenía un CV grande ya que la media era casi cero y eso aumentaba el valor. En cambio, en el ECG el coeficiente fue de 11.74, lo que refleja una variabilidad grande, pero con valores que se acercaban a la realidad debido a que viene de la dinámica propia de los latidos (los momentos de reposo y los picos de actividad). En otras palabras, el ECG tiene más dispersión absoluta, pero en términos relativos la variabilidad se entiende mejor.
+
 ## Parte C
 En la presente sección, se empleó la señal previamente extraída del generador de señales biológicas y almacenada en formato **.txt**, para contaminarla con diferentes tipos de ruido, como el ***Ruido Gaussiano***, el ***Ruido Impulso*** y ***Ruido Tipo Artefacto***. Posteriormente, se calculó el **SNR** de cada señal contaminada. En la discusión de este apartado, se definirá el SNR con sus respectivas fórmulas e interpretaciones, así como la generación de cada tipo de ruido en Python-Spyder y la forma de contaminación de la señal original.
 
